@@ -24,3 +24,4 @@ eval/*.png
 .DS_Store
 .idea/
 .vscode/
+.env
